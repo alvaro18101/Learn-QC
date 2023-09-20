@@ -1,0 +1,5 @@
+QuantumScholars2023 by QuantumQuipu
+https://github.com/QuantumQuipu/QuantumScholars2023
+
+Quantum adiabatic computing [esp]
+https://www.wikiwand.com/es/Computaci%C3%B3n_adiab%C3%A1tica_cu%C3%A1ntica
